@@ -97,7 +97,7 @@ extension SettingsView {
     private var developerSection: some View {
         Section(header: Text("Developer")) {
             VStack(alignment: .leading) {
-                Image("dardanx")
+                Image("dardanxerxa")
                     .resizable()
                     .frame(width: 100, height: 100)
                     .clipShape(RoundedRectangle(cornerRadius: 20))
